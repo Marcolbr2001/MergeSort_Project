@@ -1,0 +1,90 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1 (win64) Build 3865809 Sun May  7 15:05:29 MDT 2023
+| Date         : Fri Feb  9 12:59:46 2024
+| Host         : PC-di-Marco running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'AXI_Merge_AXI_FIFO_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of AXI_Merge_AXI_FIFO_0_0 from xilinx.com:user:AXI_FIFO:1.0 (Rev. 2) to xilinx.com:user:AXI_Merge:1.0 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1 (win64) Build 3865809 Sun May  7 15:05:29 MDT 2023
+| Date         : Thu Feb  8 22:26:06 2024
+| Host         : PC-di-Marco running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'AXI_Merge_AXI_FIFO_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of AXI_Merge_AXI_FIFO_0_0 (xilinx.com:user:AXI_FIFO:1.0 (Rev. 2)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1 (win64) Build 3865809 Sun May  7 15:05:29 MDT 2023
+| Date         : Thu Feb  8 20:44:44 2024
+| Host         : PC-di-Marco running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'AXI_Merge_AXI_FIFO_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the update of AXI_Merge_AXI_FIFO_0_0 (xilinx.com:user:AXI_FIFO:1.0 (Rev. 2)) to current project options.
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'AXI_Merge_AXI_FIFO_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'end_conversion'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1 (win64) Build 3865809 Sun May  7 15:05:29 MDT 2023
+| Date         : Tue Feb  6 22:18:25 2024
+| Host         : PC-di-Marco running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'AXI_Merge_AXI_FIFO_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of AXI_Merge_AXI_FIFO_0_0 (xilinx.com:user:AXI_FIFO:1.0 (Rev. 2)) to current project options.
+

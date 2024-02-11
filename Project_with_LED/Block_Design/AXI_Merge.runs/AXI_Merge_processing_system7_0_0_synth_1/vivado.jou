@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Sun Feb 11 00:14:18 2024
+# Process ID: 21748
+# Current directory: C:/Users/marco/OneDrive/Desktop/Project - CopyOLD/Block_Design/AXI_Merge/AXI_Merge.runs/AXI_Merge_processing_system7_0_0_synth_1
+# Command line: vivado.exe -log AXI_Merge_processing_system7_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source AXI_Merge_processing_system7_0_0.tcl
+# Log file: C:/Users/marco/OneDrive/Desktop/Project - CopyOLD/Block_Design/AXI_Merge/AXI_Merge.runs/AXI_Merge_processing_system7_0_0_synth_1/AXI_Merge_processing_system7_0_0.vds
+# Journal file: C:/Users/marco/OneDrive/Desktop/Project - CopyOLD/Block_Design/AXI_Merge/AXI_Merge.runs/AXI_Merge_processing_system7_0_0_synth_1\vivado.jou
+# Running On: PC-di-Marco, OS: Windows, CPU Frequency: 2808 MHz, CPU Physical cores: 4, Host memory: 8469 MB
+#-----------------------------------------------------------
+source AXI_Merge_processing_system7_0_0.tcl -notrace

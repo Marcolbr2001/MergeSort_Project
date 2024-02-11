@@ -1,0 +1,21 @@
+Vivado Simulator v2023.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2023.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot top_sim_behav xil_defaultlib.top_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture arch_imp of entity xil_defaultlib.AXI_slave [axi_slave_default]
+Compiling architecture behavioral of entity xil_defaultlib.Reg_no_on [reg_no_on_default]
+Compiling architecture arch_imp of entity xil_defaultlib.Merge_Sort [\Merge_Sort(c_m_start_count=32)\]
+Compiling architecture implementation of entity xil_defaultlib.AXI_master [\AXI_master(c_m_start_count=64)\]
+Compiling architecture arch_imp of entity xil_defaultlib.AXI_FIFO [axi_fifo_default]
+Compiling architecture arch_imp of entity xil_defaultlib.top_sim
+Built simulation snapshot top_sim_behav

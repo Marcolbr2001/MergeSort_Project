@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"top_sim_func_synth.vhd" \
+"../../../../../Only_AXI.srcs/sim_1/new/top_sim.vhd" \
+
+# Do not sort compile order
+nosort

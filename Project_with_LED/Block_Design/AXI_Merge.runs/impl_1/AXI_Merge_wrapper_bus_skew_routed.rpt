@@ -1,0 +1,16 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1 (win64) Build 3865809 Sun May  7 15:05:29 MDT 2023
+| Date         : Sun Feb 11 11:27:48 2024
+| Host         : PC-di-Marco running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file AXI_Merge_wrapper_bus_skew_routed.rpt -pb AXI_Merge_wrapper_bus_skew_routed.pb -rpx AXI_Merge_wrapper_bus_skew_routed.rpx
+| Design       : AXI_Merge_wrapper
+| Device       : 7z020-clg400
+| Speed File   : -1  PRODUCTION 1.12 2019-11-22
+| Design State : Routed
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

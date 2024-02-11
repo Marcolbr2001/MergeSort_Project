@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Only_AXI.srcs/sources_1/new/AXI_FIFO.vhd" \
+"../../../../Only_AXI.srcs/sources_1/new/AXI_master.vhd" \
+"../../../../Only_AXI.srcs/sources_1/new/AXI_slave.vhd" \
+"../../../../Only_AXI.srcs/sources_1/new/Merge_Sort.vhd" \
+"../../../../Only_AXI.srcs/sources_1/new/Reg_no_on.vhd" \
+"../../../../Only_AXI.srcs/sim_1/new/top_sim.vhd" \
+
+# Do not sort compile order
+nosort
